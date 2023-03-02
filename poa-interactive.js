@@ -89,334 +89,334 @@ lib.tfontAvailable = function(family, totalTypekitCount) {
 
 
 
-(lib.CachedBmp_49 = function() {
+(lib.CachedBmp_257 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_48 = function() {
+(lib.CachedBmp_260 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_105 = function() {
+(lib.CachedBmp_255 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_45 = function() {
+(lib.CachedBmp_253 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_106 = function() {
-	this.initialize(img.CachedBmp_106);
+(lib.CachedBmp_267 = function() {
+	this.initialize(img.CachedBmp_267);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2174,314);
 
 
-(lib.CachedBmp_43 = function() {
+(lib.CachedBmp_251 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_42 = function() {
+(lib.CachedBmp_250 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_41 = function() {
+(lib.CachedBmp_249 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_40 = function() {
+(lib.CachedBmp_248 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_39 = function() {
-	this.initialize(img.CachedBmp_39);
+(lib.CachedBmp_247 = function() {
+	this.initialize(img.CachedBmp_247);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2174,669);
 
 
-(lib.CachedBmp_38 = function() {
+(lib.CachedBmp_246 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_37 = function() {
+(lib.CachedBmp_245 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_36 = function() {
+(lib.CachedBmp_244 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_35 = function() {
+(lib.CachedBmp_243 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_34 = function() {
+(lib.CachedBmp_242 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_33 = function() {
+(lib.CachedBmp_241 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_32 = function() {
+(lib.CachedBmp_240 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_31 = function() {
+(lib.CachedBmp_239 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_30 = function() {
+(lib.CachedBmp_238 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_29 = function() {
+(lib.CachedBmp_237 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_28 = function() {
+(lib.CachedBmp_236 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_27 = function() {
+(lib.CachedBmp_235 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_26 = function() {
+(lib.CachedBmp_234 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_25 = function() {
+(lib.CachedBmp_233 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_24 = function() {
+(lib.CachedBmp_232 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_23 = function() {
+(lib.CachedBmp_231 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_22 = function() {
+(lib.CachedBmp_230 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_21 = function() {
+(lib.CachedBmp_229 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_20 = function() {
+(lib.CachedBmp_228 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_19 = function() {
+(lib.CachedBmp_227 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_18 = function() {
+(lib.CachedBmp_226 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_17 = function() {
+(lib.CachedBmp_225 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_16 = function() {
+(lib.CachedBmp_224 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_15 = function() {
+(lib.CachedBmp_223 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_14 = function() {
+(lib.CachedBmp_222 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_13 = function() {
+(lib.CachedBmp_221 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_12 = function() {
+(lib.CachedBmp_220 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_11 = function() {
+(lib.CachedBmp_219 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_10 = function() {
+(lib.CachedBmp_218 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_9 = function() {
+(lib.CachedBmp_217 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_8 = function() {
+(lib.CachedBmp_216 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_7 = function() {
+(lib.CachedBmp_215 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_6 = function() {
+(lib.CachedBmp_214 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_5 = function() {
+(lib.CachedBmp_213 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_4 = function() {
+(lib.CachedBmp_212 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_3 = function() {
+(lib.CachedBmp_211 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2 = function() {
+(lib.CachedBmp_210 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_1 = function() {
+(lib.CachedBmp_209 = function() {
 	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
@@ -499,10 +499,10 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_49();
+	this.instance = new lib.CachedBmp_257();
 	this.instance.setTransform(4,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_48();
+	this.instance_1 = new lib.CachedBmp_260();
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(1));
@@ -793,10 +793,10 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.t1},{t:this.t2}]}).wait(4));
 
 	// text_background
-	this.instance = new lib.CachedBmp_105();
+	this.instance = new lib.CachedBmp_255();
 	this.instance.setTransform(7.3,-64.25,0.5,0.5);
 
-	this.instance_1 = new lib.CachedBmp_105();
+	this.instance_1 = new lib.CachedBmp_255();
 	this.instance_1.setTransform(-243.95,-64.25,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_1},{t:this.instance}]}).wait(4));
@@ -811,7 +811,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_1.setTransform(0,-194.45);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.f("#FF0000").s().p("EAm4ABQIAAg3IAAA3IhqAAIBkifIBkCfgAAIBQIAAg5IAAA5IhpAAIBjifIBkCfgEgmxABQIAAgxIAAAxIhkAAIBkifIBkCfg");
+	this.shape_2.graphics.f("#FF0000").s().p("EAm4ABQIhqAAIBkifIBkCfgEAm4ABQIAAg3gAAIBQIhpAAIBjifIBkCfgAAIBQIAAg5gEgmxABQIhkAAIBkifIBkCfgEgmxABQIAAgxg");
 	this.shape_2.setTransform(-0.325,-374.625);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_2},{t:this.shape_1},{t:this.shape}]}).to({state:[]},3).wait(1));
@@ -1000,7 +1000,7 @@ if (reversed == null) { reversed = false; }
 	this.btn.setTransform(370.25,17.35,1,1,0,0,0,13,11.6);
 	new cjs.ButtonHelper(this.btn, 0, 1, 1);
 
-	this.text = new cjs.Text("The obligation can still incur costs, providing the obligation occurred within the Period of Availability and it is within 365 days of obligation.\n\nNOTE: Dependent upon bona fide need and impact of period of performance (PoP) dates.", "normal 400 16px 'Roboto'");
+	this.text = new cjs.Text("The obligation can still incur costs, providing the obligation occurred within the Period of Availability.\n\nNOTE: Dependent upon bona fide need and impact of period of performance (PoP) dates.", "normal 400 16px 'Roboto'");
 	this.text.lineHeight = 18;
 	this.text.lineWidth = 341;
 	this.text.parent = this;
@@ -1190,7 +1190,7 @@ if (reversed == null) { reversed = false; }
 
 
 // stage content:
-(lib.poainteractiveredochange3 = function(mode,startPosition,loop,reversed) {
+(lib.poainteractiveredochange4 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -1616,8 +1616,8 @@ if (reversed == null) { reversed = false; }
 				var tmp4 = Math.round(sliderNew.currentValue4);
 				if (tmp4 < slider3.currentValue3) {
 					yellowNew.gotoAndStop(tmp4 - 1);
-				}		
-				root.sliderNew.pinPoint.myDate.txt.text = dateArr[tmp4];//console.log("slider value is " + tmp2);
+				}
+				root.sliderNew.pinPoint.myDate.txt.text = dateArr[tmp4]; //console.log("slider value is " + tmp2);
 			};
 		
 			//dragging pop slider
@@ -1674,14 +1674,16 @@ if (reversed == null) { reversed = false; }
 					whiteCover2.visible = false;
 				}
 		
-				//for sliderNew code
+				//tmp3 range is from 0 - 366
+				calcDate(popArr1[tmp3]); //left side dates
+				calcDate2(popArr3[tmp3]); //right side dates
 		
 		
-		
-				//root.slider3.someField.text = popArr1[tmp3];
-				//console.log("first pop date is " + popArr1[tmp3]);		
-				calcDate(popArr1[tmp3]);
-				calcDate2(popArr3[tmp3]);
+				//the fartherst x can be slid to right is x = 248		
+				/*if (Math.round(slider3.pinPoint.x) == 248) {			
+					console.log("tmp3 is " + tmp3)
+					console.log(popArr1[364])
+				}*/
 			};
 		
 			stage.stageMouseUpHandler = function (e) {
@@ -1716,7 +1718,6 @@ if (reversed == null) { reversed = false; }
 				if (sliderNew.currentValue4 < slider3.currentValue3) {
 					yellowNew.gotoAndStop(sliderNew.currentValue4 - 1);
 				}
-			console.log("stageMouseUpHandler4")
 				this.off("stagemousemove", this.stageMouseMove);
 				this.off("stagemouseup", this.stageMouseUp);
 			};
@@ -1731,6 +1732,7 @@ if (reversed == null) { reversed = false; }
 				}
 				this.off("stagemousemove", this.stageMouseMove);
 				this.off("stagemouseup", this.stageMouseUp);
+		
 			};
 		
 			createjs.Touch.enable(stage);
@@ -1792,52 +1794,6 @@ if (reversed == null) { reversed = false; }
 		setTimeout(root.start, 0);
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		$(document).keyup(function (event) {
-		
-			//don't know where to set this so it'll set maxlength so do on any keyup right now and it works
-			//$("#txt2").attr("maxlength", 2);
-			//$("#txt2").attr("type","number");
-			//$("#txt2").value = $("#txt2").value.replace(/[^0-9\.]/g,'');
-			//document.getElementById("demo");
-			var foo = document.getElementById("txt2");
-		
-			//foo.value = foo.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');
-		
-			if ($("#txt2").is(":focus") && event.key == "Enter") {
-				alert($('#txt2').val());
-				root.txt1.text = "20" + $('#txt2').val() - 1;
-				root.txt3.text = "20" + $('#txt2').val();
-				root.txt9.text = "20" + $('#txt2').val();
-		
-				var $curVal = $('#txt2').val();
-				//$item.attr("value", parseInt($curVal) + 1 );
-				root.txt4.text = parseInt($curVal) + 1;
-				root.txt5.text = "20" + root.txt4.text;
-		
-				root.txt6.text = parseInt($curVal) + 2;
-				root.txt7.text = "20" + root.txt6.text;
-		
-				root.txt8.text = "20" + (parseInt($curVal) + 5);
-				root.txt10.text = "20" + (parseInt($curVal) + 5);
-		
-				root.txt11.text = "20" + (parseInt($curVal) + 5);
-		
-		
-				$("#txt2").blur(); //remove focus
-			}
-		});
-		
 		//function for external input field
 		this.myFunction = function (tmp) {
 			root.txt1.text = "20" + tmp - 1;
@@ -1846,10 +1802,15 @@ if (reversed == null) { reversed = false; }
 		
 			var $curVal = tmp;
 			//$item.attr("value", parseInt($curVal) + 1 );
-			root.txt4.text = parseInt($curVal) + 1;
-			root.txt5.text = "20" + root.txt4.text;
+			//root.txt4.text = parseInt($curVal) + 1;
+			root.txt4.text = tmp - 1;
 		
-			root.txt6.text = parseInt($curVal) + 2;
+			//root.txt5.text = "20" + root.txt4.text;
+			root.txt5.text = "20" + tmp;
+		
+			//root.txt6.text = parseInt($curVal) + 2;
+			root.txt6.text = parseInt($curVal) + 1;
+		
 			root.txt7.text = "20" + root.txt6.text;
 		
 			root.txt8.text = "20" + (parseInt($curVal) + 5);
@@ -1858,26 +1819,34 @@ if (reversed == null) { reversed = false; }
 			root.txt11.text = "09/30/" + "20" + (parseInt($curVal) + 5);
 			root.txt13.text = "09/30/" + "20" + tmp;
 		
+			root.txt14.text = "20" + (parseInt($curVal) + 4) //dead money date
+		
+		
 			//var1 needs to be -1 of the input field..need to add "20" in front so it'd look like 20XX
 			//var2 need to be == to the input field..need to add "20" in front so it'd look like 20XX
 			//this is where the actual updates occur.  changing the original because they moved textfields and years around
 			var1 = root.txt1.text = "20" + tmp - 1;
 			var2 = root.txt3.text = "20" + tmp;
+		
+			//right side range
 			var3 = tmp;
-			var4 = root.txt4.text;
+			var4 = parseInt(tmp) + 1;
 		
 			startDate = new Date("10-01-" + var1);
 			endDate = new Date("09-30-" + var2);
 			dateArr = getDateArray(startDate, endDate);
 		
+		
 			if (dateArr.length < 366) {
 				//no leap year
+		
 				slider.max = 364
 				slider.steps = 364
 				slider2.max2 = 364
 				slider2.steps2 = 364
 			} else {
-				//with leap year		
+				//with leap year
+		
 				slider.max = 365
 				slider.steps = 365
 				slider2.max2 = 365
@@ -1904,16 +1873,6 @@ if (reversed == null) { reversed = false; }
 			popEndDate = new Date("09-30-" + popVar2);
 		
 			popArr1 = getDateArray(popStartDate, popEndDate);
-		
-			/*if (popArr1.length < 366) {
-						slider3.max3 = 364;
-						slider3.steps3 = 364
-					} else {
-						slider3.max3 = 365
-						slider3.steps3 = 365
-					}*/
-		
-			//console.log(popArr1);
 		}
 		
 		
@@ -1935,12 +1894,13 @@ if (reversed == null) { reversed = false; }
 		popArr2 = getDateArray(popMiddleStartDate, popMiddleEndDate);
 		popArr3 = getDateArray(popRightStartDate, popRightEndDate);
 		
+		
 		function calcDate(foo) {
-			//var tt = document.getElementById('txtDate').value;
+		
+			//var tt = document.getElementById('txtDate').value;	
 			var tmp3 = Math.round(slider3.currentValue3);
 			var date = new Date(foo);
 			var newdate = new Date(date);
-		
 			newdate.setDate(newdate.getDate() + 364);
 		
 			var dd = newdate.getDate();
@@ -1948,10 +1908,11 @@ if (reversed == null) { reversed = false; }
 			var y = newdate.getFullYear();
 		
 			var someFormattedDate = mm + '/' + dd + '/' + y;
-			//console.log(popArr1[tmp3] + " to " + someFormattedDate);
+			//console.log(popArr1[tmp3] + " to " + someFormattedDate);	
+		
 		
 			//below updates the t12 text field when sliding the pop
-			if (popArr1[tmp3] != undefined && someFormattedDate != "nan/nan/nan") {
+			/*if (popArr1[tmp3] != undefined && someFormattedDate != "nan/nan/nan") {
 				//updating the text on the left side of the pop slider
 				root.slider3.pinPoint.t1.text = popArr1[tmp3] + " to " + someFormattedDate;
 		
@@ -1959,7 +1920,21 @@ if (reversed == null) { reversed = false; }
 				root.t12.text = someFormattedDate;
 			} else {
 				return;
+			}*/
+		
+			////////////////////////////////////////////////
+			
+			
+			if (Math.round(slider3.pinPoint.x) == 248) {
+				//ok, this is to FORCE the final date range when dragged all the way to the right.  it doesn't update properly if dragged
+				//really fast to the rar right (end)
+				root.slider3.pinPoint.t1.text = "10/1/" + root.txt3.text + " to " + "9/30/" + root.txt7.text;
+			} else {
+				//otherwise just update normally
+				root.slider3.pinPoint.t1.text = popArr1[tmp3] + " to " + someFormattedDate;
 			}
+			
+			///////////////////////////////////////////////
 		
 		}
 		
@@ -1976,10 +1951,19 @@ if (reversed == null) { reversed = false; }
 			var y = newdate.getFullYear();
 		
 			var someFormattedDate = mm + '/' + dd + '/' + y;
-			if (popArr3[tmp3] != undefined && someFormattedDate != "nan/nan/nan") {
+			/*if (popArr3[tmp3] != undefined && someFormattedDate != "nan/nan/nan") {
 				root.slider3.pinPoint.t2.text = popArr3[tmp3] + " to " + someFormattedDate;
+		
 			} else {
 				return;
+			}*/
+			if (Math.round(slider3.pinPoint.x) == 248) {
+				//ok, this is to FORCE the final date range when dragged all the way to the right.  it doesn't update properly if dragged
+				//really fast to the rar right (end)
+				root.slider3.pinPoint.t2.text = "10/1/" + root.txt7.text + " to " + "9/30/" + (parseInt(root.txt7.text) + 1);
+			} else {
+				//otherwise just update normally
+				root.slider3.pinPoint.t2.text = popArr3[tmp3] + " to " + someFormattedDate;
 			}
 		
 		}
@@ -2027,6 +2011,75 @@ if (reversed == null) { reversed = false; }
 	// actions tween:
 	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
 
+	// dummy
+	this.text = new cjs.Text("txt7", "normal 400 14px 'Roboto'");
+	this.text.textAlign = "center";
+	this.text.lineHeight = 21;
+	this.text.lineWidth = 34;
+	this.text.parent = this;
+	this.text.setTransform(885.65,250.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text);
+	}
+
+	this.text_1 = new cjs.Text("txt6", "normal 400 14px 'Roboto'");
+	this.text_1.textAlign = "center";
+	this.text_1.lineHeight = 21;
+	this.text_1.lineWidth = 34;
+	this.text_1.parent = this;
+	this.text_1.setTransform(754.5,250.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_1);
+	}
+
+	this.text_2 = new cjs.Text("txt5", "normal 400 14px 'Roboto'");
+	this.text_2.textAlign = "center";
+	this.text_2.lineHeight = 21;
+	this.text_2.lineWidth = 34;
+	this.text_2.parent = this;
+	this.text_2.setTransform(623.35,250.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_2);
+	}
+
+	this.text_3 = new cjs.Text("txt3", "normal 400 14px 'Roboto'");
+	this.text_3.textAlign = "center";
+	this.text_3.lineHeight = 21;
+	this.text_3.lineWidth = 34;
+	this.text_3.parent = this;
+	this.text_3.setTransform(381.75,250.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_3);
+	}
+
+	this.text_4 = new cjs.Text("txt4", "normal 400 14px 'Roboto'");
+	this.text_4.textAlign = "center";
+	this.text_4.lineHeight = 21;
+	this.text_4.lineWidth = 34;
+	this.text_4.parent = this;
+	this.text_4.setTransform(243.4,250.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_4);
+	}
+
+	this.text_5 = new cjs.Text("txt1", "normal 400 14px 'Roboto'");
+	this.text_5.textAlign = "center";
+	this.text_5.lineHeight = 21;
+	this.text_5.lineWidth = 34;
+	this.text_5.parent = this;
+	this.text_5.setTransform(138.75,250.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_5);
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_5},{t:this.text_4},{t:this.text_3},{t:this.text_2},{t:this.text_1},{t:this.text}]}).wait(1));
+
 	// tips
 	this.tip3 = new lib.Symbol10();
 	this.tip3.name = "tip3";
@@ -2052,98 +2105,110 @@ if (reversed == null) { reversed = false; }
 	this.instance_1 = new lib.Symbol6("synched",0);
 	this.instance_1.setTransform(369.85,133.7);
 
-	this.text = new cjs.Text("key", "normal 700 16px 'Roboto'");
-	this.text.lineHeight = 18;
-	this.text.parent = this;
-	this.text.setTransform(99.05,217.9);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text);
-	}
-
-	this.text_1 = new cjs.Text("4. Use the        below to determing the funding's availability.", "normal 400 16px 'Roboto'");
-	this.text_1.lineHeight = 18;
-	this.text_1.parent = this;
-	this.text_1.setTransform(24.1,217.9);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_1);
-	}
-
-	this.instance_2 = new lib.pinpoint();
-	this.instance_2.setTransform(437,182,0.2036,0.2036);
-
-	this.text_2 = new cjs.Text("3. Slide the obligation pin to the funding's obligation date.", "normal 400 16px 'Roboto'");
-	this.text_2.lineHeight = 18;
-	this.text_2.parent = this;
-	this.text_2.setTransform(24.1,186.9);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_2);
-	}
-
-	this.instance_3 = new lib.PoP();
-	this.instance_3.setTransform(374,156,0.2405,0.2405);
-
-	this.text_3 = new cjs.Text("2. Slide the PoP tab to the PoP's starting month.", "normal 400 16px 'Roboto'");
-	this.text_3.lineHeight = 18;
-	this.text_3.parent = this;
-	this.text_3.setTransform(24.1,157.9);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_3);
-	}
-
-	this.text_4 = new cjs.Text("below and press ENTER.", "normal 400 16px 'Roboto'");
-	this.text_4.lineHeight = 18;
-	this.text_4.parent = this;
-	this.text_4.setTransform(385.5,127);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_4);
-	}
-
-	this.text_5 = new cjs.Text("FY", "normal 400 16px 'Roboto'");
-	this.text_5.lineHeight = 18;
-	this.text_5.parent = this;
-	this.text_5.setTransform(335,127);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_5);
-	}
-
-	this.text_6 = new cjs.Text("1. Enter the funding's fiscal year in the field ", "normal 400 16px 'Roboto'");
+	this.text_6 = new cjs.Text("key", "normal 700 16px 'Roboto'");
 	this.text_6.lineHeight = 18;
 	this.text_6.parent = this;
-	this.text_6.setTransform(24.1,127);
+	this.text_6.setTransform(99.05,217.9);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_6);
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_6},{t:this.text_5},{t:this.text_4},{t:this.text_3},{t:this.instance_3},{t:this.text_2},{t:this.instance_2},{t:this.text_1},{t:this.text},{t:this.instance_1},{t:this.instance}]}).wait(1));
+	this.text_7 = new cjs.Text("4. Use the        below to determing the funding's availability.", "normal 400 16px 'Roboto'");
+	this.text_7.lineHeight = 18;
+	this.text_7.parent = this;
+	this.text_7.setTransform(24.1,217.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_7);
+	}
+
+	this.instance_2 = new lib.pinpoint();
+	this.instance_2.setTransform(437,182,0.2036,0.2036);
+
+	this.text_8 = new cjs.Text("3. Slide the obligation pin to the funding's obligation date.", "normal 400 16px 'Roboto'");
+	this.text_8.lineHeight = 18;
+	this.text_8.parent = this;
+	this.text_8.setTransform(24.1,186.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_8);
+	}
+
+	this.instance_3 = new lib.PoP();
+	this.instance_3.setTransform(374,156,0.2405,0.2405);
+
+	this.text_9 = new cjs.Text("2. Slide the PoP tab to the PoP's starting month.", "normal 400 16px 'Roboto'");
+	this.text_9.lineHeight = 18;
+	this.text_9.parent = this;
+	this.text_9.setTransform(24.1,157.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_9);
+	}
+
+	this.text_10 = new cjs.Text("below and press ENTER.", "normal 400 16px 'Roboto'");
+	this.text_10.lineHeight = 18;
+	this.text_10.parent = this;
+	this.text_10.setTransform(385.5,127);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_10);
+	}
+
+	this.text_11 = new cjs.Text("FY", "normal 400 16px 'Roboto'");
+	this.text_11.lineHeight = 18;
+	this.text_11.parent = this;
+	this.text_11.setTransform(335,127);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_11);
+	}
+
+	this.text_12 = new cjs.Text("1. Enter the funding's fiscal year in the field ", "normal 400 16px 'Roboto'");
+	this.text_12.lineHeight = 18;
+	this.text_12.parent = this;
+	this.text_12.setTransform(24.1,127);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_12);
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_12},{t:this.text_11},{t:this.text_10},{t:this.text_9},{t:this.instance_3},{t:this.text_8},{t:this.instance_2},{t:this.text_7},{t:this.text_6},{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	// txt_fields
-	this.text_7 = new cjs.Text("FY", "bold 25px 'Roboto'");
-	this.text_7.textAlign = "center";
-	this.text_7.lineHeight = 32;
-	this.text_7.lineWidth = 39;
-	this.text_7.parent = this;
-	this.text_7.setTransform(739.3,281.25);
+	this.txt14 = new cjs.Text("2020", "normal 700 15px 'Roboto'", "#FF0000");
+	this.txt14.name = "txt14";
+	this.txt14.textAlign = "center";
+	this.txt14.lineHeight = 22;
+	this.txt14.lineWidth = 82;
+	this.txt14.parent = this;
+	this.txt14.setTransform(1023.4,408.1);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.txt14);
+	}
 
-	this.text_8 = new cjs.Text("FY", "bold 25px 'Roboto'");
-	this.text_8.textAlign = "center";
-	this.text_8.lineHeight = 32;
-	this.text_8.lineWidth = 39;
-	this.text_8.parent = this;
-	this.text_8.setTransform(483.9,281.25);
+	this.text_13 = new cjs.Text("FY", "bold 25px 'Roboto'");
+	this.text_13.textAlign = "center";
+	this.text_13.lineHeight = 32;
+	this.text_13.lineWidth = 39;
+	this.text_13.parent = this;
+	this.text_13.setTransform(739.3,281.25);
 
-	this.text_9 = new cjs.Text("FY", "bold 25px 'Roboto'");
-	this.text_9.textAlign = "center";
-	this.text_9.lineHeight = 32;
-	this.text_9.lineWidth = 39;
-	this.text_9.parent = this;
-	this.text_9.setTransform(229.55,281.25);
+	this.text_14 = new cjs.Text("FY", "bold 25px 'Roboto'");
+	this.text_14.textAlign = "center";
+	this.text_14.lineHeight = 32;
+	this.text_14.lineWidth = 39;
+	this.text_14.parent = this;
+	this.text_14.setTransform(483.9,281.25);
+
+	this.text_15 = new cjs.Text("FY", "bold 25px 'Roboto'");
+	this.text_15.textAlign = "center";
+	this.text_15.lineHeight = 32;
+	this.text_15.lineWidth = 39;
+	this.text_15.parent = this;
+	this.text_15.setTransform(229.55,281.25);
 
 	this.txt8 = new cjs.Text("2021", "normal 700 15px 'Roboto'", "#FF0000");
 	this.txt8.name = "txt8";
@@ -2151,7 +2216,7 @@ if (reversed == null) { reversed = false; }
 	this.txt8.lineHeight = 22;
 	this.txt8.lineWidth = 82;
 	this.txt8.parent = this;
-	this.txt8.setTransform(1023.4,512.55);
+	this.txt8.setTransform(1023.4,579.3);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.txt8);
@@ -2229,174 +2294,184 @@ if (reversed == null) { reversed = false; }
 		lib.webFontTxtInst['Roboto'].push(this.txt1);
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.txt1},{t:this.txt3},{t:this.txt4},{t:this.txt5},{t:this.txt6},{t:this.txt7},{t:this.txt8},{t:this.text_9},{t:this.text_8},{t:this.text_7}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.txt1},{t:this.txt3},{t:this.txt4},{t:this.txt5},{t:this.txt6},{t:this.txt7},{t:this.txt8},{t:this.text_15},{t:this.text_14},{t:this.text_13},{t:this.txt14}]}).wait(1));
 
 	// months_labels
-	this.text_10 = new cjs.Text("September, 30", "normal 700 15px 'Roboto'", "#FF0000");
-	this.text_10.textAlign = "center";
-	this.text_10.lineHeight = 17;
-	this.text_10.parent = this;
-	this.text_10.setTransform(1018.9,493.3);
+	this.text_16 = new cjs.Text("September, 30", "normal 700 15px 'Roboto'", "#FF0000");
+	this.text_16.textAlign = "center";
+	this.text_16.lineHeight = 17;
+	this.text_16.parent = this;
+	this.text_16.setTransform(1018.9,388.85);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_10);
+		lib.webFontTxtInst['Roboto'].push(this.text_16);
 	}
 
-	this.text_11 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
-	this.text_11.textAlign = "center";
-	this.text_11.lineHeight = 16;
-	this.text_11.parent = this;
-	this.text_11.setTransform(888.5,276.05);
+	this.text_17 = new cjs.Text("September, 30", "normal 700 15px 'Roboto'", "#FF0000");
+	this.text_17.textAlign = "center";
+	this.text_17.lineHeight = 17;
+	this.text_17.parent = this;
+	this.text_17.setTransform(1018.9,560.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_11);
+		lib.webFontTxtInst['Roboto'].push(this.text_17);
 	}
 
-	this.text_12 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
-	this.text_12.textAlign = "center";
-	this.text_12.lineHeight = 16;
-	this.text_12.parent = this;
-	this.text_12.setTransform(627.2,276.05);
+	this.text_18 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
+	this.text_18.textAlign = "center";
+	this.text_18.lineHeight = 16;
+	this.text_18.parent = this;
+	this.text_18.setTransform(888.5,276.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_12);
+		lib.webFontTxtInst['Roboto'].push(this.text_18);
 	}
 
-	this.text_13 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
-	this.text_13.textAlign = "center";
-	this.text_13.lineHeight = 16;
-	this.text_13.parent = this;
-	this.text_13.setTransform(380.45,276.05);
+	this.text_19 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
+	this.text_19.textAlign = "center";
+	this.text_19.lineHeight = 16;
+	this.text_19.parent = this;
+	this.text_19.setTransform(627.2,276.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_13);
+		lib.webFontTxtInst['Roboto'].push(this.text_19);
 	}
 
-	this.text_14 = new cjs.Text("October 1,", "normal 400 14px 'Roboto'");
-	this.text_14.textAlign = "center";
-	this.text_14.lineHeight = 16;
-	this.text_14.parent = this;
-	this.text_14.setTransform(135.35,276.05);
+	this.text_20 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
+	this.text_20.textAlign = "center";
+	this.text_20.lineHeight = 16;
+	this.text_20.parent = this;
+	this.text_20.setTransform(380.45,276.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_14);
+		lib.webFontTxtInst['Roboto'].push(this.text_20);
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_14},{t:this.text_13},{t:this.text_12},{t:this.text_11},{t:this.text_10}]}).wait(1));
+	this.text_21 = new cjs.Text("October 1,", "normal 400 14px 'Roboto'");
+	this.text_21.textAlign = "center";
+	this.text_21.lineHeight = 16;
+	this.text_21.parent = this;
+	this.text_21.setTransform(135.35,276.05);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_21);
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_21},{t:this.text_20},{t:this.text_19},{t:this.text_18},{t:this.text_17},{t:this.text_16}]}).wait(1));
 
 	// months_yearly_across
-	this.instance_4 = new lib.CachedBmp_36();
+	this.instance_4 = new lib.CachedBmp_244();
 	this.instance_4.setTransform(840.5,321.2,0.5,0.5);
 
-	this.instance_5 = new lib.CachedBmp_35();
+	this.instance_5 = new lib.CachedBmp_243();
 	this.instance_5.setTransform(819,321.2,0.5,0.5);
 
-	this.instance_6 = new lib.CachedBmp_34();
+	this.instance_6 = new lib.CachedBmp_242();
 	this.instance_6.setTransform(802.25,321.2,0.5,0.5);
 
-	this.instance_7 = new lib.CachedBmp_33();
+	this.instance_7 = new lib.CachedBmp_241();
 	this.instance_7.setTransform(782.5,321.2,0.5,0.5);
 
-	this.instance_8 = new lib.CachedBmp_32();
+	this.instance_8 = new lib.CachedBmp_240();
 	this.instance_8.setTransform(760.25,321.2,0.5,0.5);
 
-	this.instance_9 = new lib.CachedBmp_31();
+	this.instance_9 = new lib.CachedBmp_239();
 	this.instance_9.setTransform(740.5,321.2,0.5,0.5);
 
-	this.instance_10 = new lib.CachedBmp_30();
+	this.instance_10 = new lib.CachedBmp_238();
 	this.instance_10.setTransform(719.75,321.2,0.5,0.5);
 
-	this.instance_11 = new lib.CachedBmp_29();
+	this.instance_11 = new lib.CachedBmp_237();
 	this.instance_11.setTransform(699.5,321.2,0.5,0.5);
 
-	this.instance_12 = new lib.CachedBmp_28();
+	this.instance_12 = new lib.CachedBmp_236();
 	this.instance_12.setTransform(680,321.2,0.5,0.5);
 
-	this.instance_13 = new lib.CachedBmp_27();
+	this.instance_13 = new lib.CachedBmp_235();
 	this.instance_13.setTransform(659,321.2,0.5,0.5);
 
-	this.instance_14 = new lib.CachedBmp_26();
+	this.instance_14 = new lib.CachedBmp_234();
 	this.instance_14.setTransform(637.5,321.2,0.5,0.5);
 
-	this.instance_15 = new lib.CachedBmp_25();
+	this.instance_15 = new lib.CachedBmp_233();
 	this.instance_15.setTransform(616.5,321.2,0.5,0.5);
 
-	this.instance_16 = new lib.CachedBmp_24();
+	this.instance_16 = new lib.CachedBmp_232();
 	this.instance_16.setTransform(592.5,321.2,0.5,0.5);
 
-	this.instance_17 = new lib.CachedBmp_23();
+	this.instance_17 = new lib.CachedBmp_231();
 	this.instance_17.setTransform(571,321.2,0.5,0.5);
 
-	this.instance_18 = new lib.CachedBmp_22();
+	this.instance_18 = new lib.CachedBmp_230();
 	this.instance_18.setTransform(554.25,321.2,0.5,0.5);
 
-	this.instance_19 = new lib.CachedBmp_21();
+	this.instance_19 = new lib.CachedBmp_229();
 	this.instance_19.setTransform(534.5,321.2,0.5,0.5);
 
-	this.instance_20 = new lib.CachedBmp_20();
+	this.instance_20 = new lib.CachedBmp_228();
 	this.instance_20.setTransform(512.25,321.2,0.5,0.5);
 
-	this.instance_21 = new lib.CachedBmp_19();
+	this.instance_21 = new lib.CachedBmp_227();
 	this.instance_21.setTransform(492.5,321.2,0.5,0.5);
 
-	this.instance_22 = new lib.CachedBmp_18();
+	this.instance_22 = new lib.CachedBmp_226();
 	this.instance_22.setTransform(471.75,321.2,0.5,0.5);
 
-	this.instance_23 = new lib.CachedBmp_17();
+	this.instance_23 = new lib.CachedBmp_225();
 	this.instance_23.setTransform(451.5,321.2,0.5,0.5);
 
-	this.instance_24 = new lib.CachedBmp_16();
+	this.instance_24 = new lib.CachedBmp_224();
 	this.instance_24.setTransform(432,321.2,0.5,0.5);
 
-	this.instance_25 = new lib.CachedBmp_15();
+	this.instance_25 = new lib.CachedBmp_223();
 	this.instance_25.setTransform(411,321.2,0.5,0.5);
 
-	this.instance_26 = new lib.CachedBmp_14();
+	this.instance_26 = new lib.CachedBmp_222();
 	this.instance_26.setTransform(389.5,321.2,0.5,0.5);
 
-	this.instance_27 = new lib.CachedBmp_13();
+	this.instance_27 = new lib.CachedBmp_221();
 	this.instance_27.setTransform(368.5,321.2,0.5,0.5);
 
-	this.instance_28 = new lib.CachedBmp_12();
+	this.instance_28 = new lib.CachedBmp_220();
 	this.instance_28.setTransform(345,321.2,0.5,0.5);
 
-	this.instance_29 = new lib.CachedBmp_11();
+	this.instance_29 = new lib.CachedBmp_219();
 	this.instance_29.setTransform(323.5,321.2,0.5,0.5);
 
-	this.instance_30 = new lib.CachedBmp_10();
+	this.instance_30 = new lib.CachedBmp_218();
 	this.instance_30.setTransform(306.75,321.2,0.5,0.5);
 
-	this.instance_31 = new lib.CachedBmp_9();
+	this.instance_31 = new lib.CachedBmp_217();
 	this.instance_31.setTransform(287,321.2,0.5,0.5);
 
-	this.instance_32 = new lib.CachedBmp_8();
+	this.instance_32 = new lib.CachedBmp_216();
 	this.instance_32.setTransform(264.75,321.2,0.5,0.5);
 
-	this.instance_33 = new lib.CachedBmp_7();
+	this.instance_33 = new lib.CachedBmp_215();
 	this.instance_33.setTransform(245,321.2,0.5,0.5);
 
-	this.instance_34 = new lib.CachedBmp_6();
+	this.instance_34 = new lib.CachedBmp_214();
 	this.instance_34.setTransform(224.25,321.2,0.5,0.5);
 
-	this.instance_35 = new lib.CachedBmp_5();
+	this.instance_35 = new lib.CachedBmp_213();
 	this.instance_35.setTransform(204,321.2,0.5,0.5);
 
-	this.instance_36 = new lib.CachedBmp_4();
+	this.instance_36 = new lib.CachedBmp_212();
 	this.instance_36.setTransform(184.5,321.2,0.5,0.5);
 
-	this.instance_37 = new lib.CachedBmp_3();
+	this.instance_37 = new lib.CachedBmp_211();
 	this.instance_37.setTransform(163.5,321.2,0.5,0.5);
 
-	this.instance_38 = new lib.CachedBmp_2();
+	this.instance_38 = new lib.CachedBmp_210();
 	this.instance_38.setTransform(142,321.2,0.5,0.5);
 
-	this.instance_39 = new lib.CachedBmp_1();
+	this.instance_39 = new lib.CachedBmp_209();
 	this.instance_39.setTransform(121,321.2,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4}]}).wait(1));
 
 	// temp_spacers
-	this.instance_40 = new lib.CachedBmp_37();
+	this.instance_40 = new lib.CachedBmp_245();
 	this.instance_40.setTransform(111.5,332.5,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_40).wait(1));
@@ -2404,7 +2479,7 @@ if (reversed == null) { reversed = false; }
 	// end_gray_cover
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f("#EBEBEB").s().p("ApmOxIAA9hITNAAIAAdhg");
-	this.shape.setTransform(1026.55,588.525);
+	this.shape.setTransform(1026.55,583.725);
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
@@ -2481,7 +2556,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.orangeCover1},{t:this.orangeCover2}]}).wait(1));
 
 	// dots
-	this.instance_41 = new lib.CachedBmp_38();
+	this.instance_41 = new lib.CachedBmp_246();
 	this.instance_41.setTransform(131,344.65,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_41).wait(1));
@@ -2541,28 +2616,28 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.shape_6).wait(1));
 
 	// grey_back
-	this.instance_42 = new lib.CachedBmp_42();
+	this.instance_42 = new lib.CachedBmp_250();
 	this.instance_42.setTransform(12.6,578.2,0.5,0.5);
 
-	this.instance_43 = new lib.CachedBmp_41();
+	this.instance_43 = new lib.CachedBmp_249();
 	this.instance_43.setTransform(11.45,532.6,0.5,0.5);
 
-	this.instance_44 = new lib.CachedBmp_40();
+	this.instance_44 = new lib.CachedBmp_248();
 	this.instance_44.setTransform(16.5,473.05,0.5,0.5);
 
-	this.instance_45 = new lib.CachedBmp_39();
+	this.instance_45 = new lib.CachedBmp_247();
 	this.instance_45.setTransform(2.55,342.95,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42}]}).wait(1));
 
 	// Keys
-	this.text_15 = new cjs.Text("Past fiscal year, unavailable for obligations ", "normal 400 16px 'Roboto'", "#71797E");
-	this.text_15.lineHeight = 18;
-	this.text_15.parent = this;
-	this.text_15.setTransform(105.15,935.45);
+	this.text_22 = new cjs.Text("Past fiscal year, unavailable for obligations ", "normal 400 16px 'Roboto'", "#71797E");
+	this.text_22.lineHeight = 18;
+	this.text_22.parent = this;
+	this.text_22.setTransform(105.15,935.45);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_15);
+		lib.webFontTxtInst['Roboto'].push(this.text_22);
 	}
 
 	this.btn_tip3 = new lib.Symbol7();
@@ -2580,57 +2655,57 @@ if (reversed == null) { reversed = false; }
 	this.btn_tip1.setTransform(321.5,856.1);
 	new cjs.ButtonHelper(this.btn_tip1, 0, 1, 1);
 
-	this.text_16 = new cjs.Text("to", "normal 400 16px 'Roboto'", "#C0741A");
-	this.text_16.lineHeight = 18;
-	this.text_16.lineWidth = 15;
-	this.text_16.parent = this;
-	this.text_16.setTransform(-135.5,877.75);
+	this.text_23 = new cjs.Text("to", "normal 400 16px 'Roboto'", "#C0741A");
+	this.text_23.lineHeight = 18;
+	this.text_23.lineWidth = 15;
+	this.text_23.parent = this;
+	this.text_23.setTransform(-135.5,877.75);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_16);
+		lib.webFontTxtInst['Roboto'].push(this.text_23);
 	}
 
-	this.instance_46 = new lib.CachedBmp_45();
+	this.instance_46 = new lib.CachedBmp_253();
 	this.instance_46.setTransform(6.05,775.5,0.5,0.5);
 
-	this.instance_47 = new lib.CachedBmp_106();
+	this.instance_47 = new lib.CachedBmp_267();
 	this.instance_47.setTransform(3.45,801,0.5,0.5);
 
-	this.text_17 = new cjs.Text("Unavailable ", "normal 400 16px 'Roboto'", "#CC0000");
-	this.text_17.lineHeight = 18;
-	this.text_17.parent = this;
-	this.text_17.setTransform(105.15,907.45);
+	this.text_24 = new cjs.Text("Unavailable ", "normal 400 16px 'Roboto'", "#CC0000");
+	this.text_24.lineHeight = 18;
+	this.text_24.parent = this;
+	this.text_24.setTransform(105.15,907.45);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_17);
+		lib.webFontTxtInst['Roboto'].push(this.text_24);
 	}
 
-	this.text_18 = new cjs.Text("Available for 5 years to pay lagging cost/expenses", "normal 400 16px 'Roboto'", "#C0741A");
-	this.text_18.lineHeight = 18;
-	this.text_18.parent = this;
-	this.text_18.setTransform(105.15,877.75);
+	this.text_25 = new cjs.Text("Available for 5 years to pay lagging cost/expenses", "normal 400 16px 'Roboto'", "#C0741A");
+	this.text_25.lineHeight = 18;
+	this.text_25.parent = this;
+	this.text_25.setTransform(105.15,877.75);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_18);
+		lib.webFontTxtInst['Roboto'].push(this.text_25);
 	}
 
-	this.text_19 = new cjs.Text("Available only to incur costs", "normal 400 16px 'Roboto'", "#BBB104");
-	this.text_19.lineHeight = 18;
-	this.text_19.parent = this;
-	this.text_19.setTransform(105.15,848.75);
+	this.text_26 = new cjs.Text("Available only to incur costs", "normal 400 16px 'Roboto'", "#BBB104");
+	this.text_26.lineHeight = 18;
+	this.text_26.parent = this;
+	this.text_26.setTransform(105.15,848.75);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_19);
+		lib.webFontTxtInst['Roboto'].push(this.text_26);
 	}
 
-	this.text_20 = new cjs.Text("Available for obligation to taks order/CLIN", "normal 400 16px 'Roboto'", "#019047");
-	this.text_20.lineHeight = 18;
-	this.text_20.lineWidth = 345;
-	this.text_20.parent = this;
-	this.text_20.setTransform(105.15,822.5);
+	this.text_27 = new cjs.Text("Available for obligation to taks order/CLIN", "normal 400 16px 'Roboto'", "#019047");
+	this.text_27.lineHeight = 18;
+	this.text_27.lineWidth = 345;
+	this.text_27.parent = this;
+	this.text_27.setTransform(105.15,822.5);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_20);
+		lib.webFontTxtInst['Roboto'].push(this.text_27);
 	}
 
 	this.t12 = new cjs.Text("09/30/2016", "normal 400 16px 'Roboto'", "#BBB104");
@@ -2688,10 +2763,10 @@ if (reversed == null) { reversed = false; }
 		lib.webFontTxtInst['Roboto'].push(this.txt9);
 	}
 
-	this.instance_48 = new lib.CachedBmp_43();
+	this.instance_48 = new lib.CachedBmp_251();
 	this.instance_48.setTransform(52.8,824.1,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_48},{t:this.txt9},{t:this.txt10},{t:this.txt11},{t:this.txt13},{t:this.t12},{t:this.text_20},{t:this.text_19},{t:this.text_18},{t:this.text_17},{t:this.instance_47},{t:this.instance_46},{t:this.text_16},{t:this.btn_tip1},{t:this.btn_tip2},{t:this.btn_tip3},{t:this.text_15}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_48},{t:this.txt9},{t:this.txt10},{t:this.txt11},{t:this.txt13},{t:this.t12},{t:this.text_27},{t:this.text_26},{t:this.text_25},{t:this.text_24},{t:this.instance_47},{t:this.instance_46},{t:this.text_23},{t:this.btn_tip1},{t:this.btn_tip2},{t:this.btn_tip3},{t:this.text_22}]}).wait(1));
 
 	// Layer_1
 	this.instance_49 = new lib.Symbol3("synched",0);
@@ -2709,19 +2784,19 @@ lib.properties = {
 	id: '0E5D06948DE2114F8538EE6E08CC1C62',
 	width: 1100,
 	height: 976,
-	fps: 120,
+	fps: 30,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_106.png?1677604123050", id:"CachedBmp_106"},
-		{src:"images/CachedBmp_39.png?1677604123050", id:"CachedBmp_39"},
-		{src:"images/header.png?1677604123050", id:"header"},
-		{src:"images/poa_interactive_atlas_1.png?1677604123009", id:"poa_interactive_atlas_1"},
-		{src:"images/poa_interactive_atlas_2.png?1677604123009", id:"poa_interactive_atlas_2"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1677604123050", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1677604123050", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1677604123050", id:"an.TextInput"}
+		{src:"images/CachedBmp_267.png?1677756883214", id:"CachedBmp_267"},
+		{src:"images/CachedBmp_247.png?1677756883215", id:"CachedBmp_247"},
+		{src:"images/header.png?1677756883215", id:"header"},
+		{src:"images/poa_interactive_atlas_1.png?1677756883068", id:"poa_interactive_atlas_1"},
+		{src:"images/poa_interactive_atlas_2.png?1677756883068", id:"poa_interactive_atlas_2"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1677756883215", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1677756883215", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1677756883215", id:"an.TextInput"}
 	],
 	preloads: []
 };
