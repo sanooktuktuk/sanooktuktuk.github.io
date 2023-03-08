@@ -8,8 +8,8 @@ var loadedGoogleCount = 0;
 var gFontsUpdateCacheList = [];
 var tFontsUpdateCacheList = [];
 lib.ssMetadata = [
-		{name:"poa_interactive_atlas_1", frames: [[1751,141,44,46],[1976,0,45,45],[1496,0,478,58],[1496,308,83,52],[1496,60,95,246],[1593,141,156,79],[1909,214,135,79],[1593,295,176,45],[1751,214,156,79],[0,0,1494,664],[0,666,1489,22],[1797,141,52,27],[1797,170,52,27],[1976,47,52,27],[1967,76,52,27],[1967,105,52,27],[1967,134,52,27],[1967,163,52,27],[1593,222,52,27],[1593,251,52,27],[1647,222,52,27],[1647,251,52,27],[1771,295,52,27],[1825,295,52,27],[1879,295,52,27],[1933,295,52,27],[1987,295,52,27],[1771,324,52,27],[1581,342,52,27],[1496,362,52,27],[1635,342,52,27],[1689,342,52,27],[1825,324,52,27],[1879,324,52,27],[1933,324,52,27],[1987,324,52,27],[1743,353,52,27],[1550,371,52,27],[1496,391,52,27],[1604,371,52,27],[1658,371,52,27],[1797,353,52,27],[1851,353,52,27],[1905,353,52,27],[1959,353,52,27],[1712,382,52,27],[1550,400,52,27],[1852,60,113,152],[1593,60,257,79],[1967,192,21,20]]},
-		{name:"poa_interactive_atlas_2", frames: [[0,0,1650,1500]]}
+		{name:"poa_interactive_atlas_1", frames: [[0,0,1650,1500]]},
+		{name:"poa_interactive_atlas_2", frames: [[1751,141,44,46],[1976,0,45,45],[1496,0,478,58],[1496,308,83,52],[1496,60,95,246],[1593,141,156,79],[1909,214,135,79],[1593,295,176,45],[1751,214,156,79],[0,0,1494,664],[0,666,1489,22],[1797,141,52,27],[1797,170,52,27],[1976,47,52,27],[1967,76,52,27],[1967,105,52,27],[1967,134,52,27],[1967,163,52,27],[1593,222,52,27],[1593,251,52,27],[1647,222,52,27],[1647,251,52,27],[1771,295,52,27],[1825,295,52,27],[1879,295,52,27],[1933,295,52,27],[1987,295,52,27],[1771,324,52,27],[1581,342,52,27],[1496,362,52,27],[1635,342,52,27],[1689,342,52,27],[1825,324,52,27],[1879,324,52,27],[1933,324,52,27],[1987,324,52,27],[1743,353,52,27],[1550,371,52,27],[1496,391,52,27],[1604,371,52,27],[1658,371,52,27],[1797,353,52,27],[1851,353,52,27],[1905,353,52,27],[1959,353,52,27],[1712,382,52,27],[1550,400,52,27],[1852,60,113,152],[1593,60,257,79],[1967,192,21,20]]}
 ];
 
 
@@ -90,28 +90,28 @@ lib.tfontAvailable = function(family, totalTypekitCount) {
 
 
 (lib.CachedBmp_50 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_49 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_48 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_46 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
@@ -124,35 +124,35 @@ p.nominalBounds = new cjs.Rectangle(0,0,2174,314);
 
 
 (lib.CachedBmp_44 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_43 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_42 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_41 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_40 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
@@ -165,273 +165,273 @@ p.nominalBounds = new cjs.Rectangle(0,0,2174,668);
 
 
 (lib.CachedBmp_38 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_37 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_36 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_35 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_34 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_33 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_32 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_31 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_30 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_29 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_28 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_27 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_26 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_25 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_24 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_23 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_21 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_19 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_15 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_14 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_13 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.backgroundtemplate = function() {
-	this.initialize(ss["poa_interactive_atlas_2"]);
+	this.initialize(ss["poa_interactive_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -444,21 +444,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,2202,140);
 
 
 (lib.pinpoint = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.PoP = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.tip = function() {
-	this.initialize(ss["poa_interactive_atlas_1"]);
+	this.initialize(ss["poa_interactive_atlas_2"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -2560,12 +2560,8 @@ if (reversed == null) { reversed = false; }
 	this.whiteCover1 = new lib.Symbol5();
 	this.whiteCover1.name = "whiteCover1";
 	this.whiteCover1.setTransform(380.25,520.3,1,1.0638,0,0,0,0,0.1);
-	var whiteCover1Filter_1 = new cjs.ColorFilter(0.5,0.5,0.5,1,127.5,25.5,102,0);
-	this.whiteCover1.filters = [whiteCover1Filter_1];
-	this.whiteCover1.cache(-4,-2,250,12);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.whiteCover1},{t:this.whiteCover2},{t:this.whiteCover3}]}).wait(1));
-	this.timeline.addTween(cjs.Tween.get(whiteCover1Filter_1).wait(1));
 
 	// slider3
 	this.slider3 = new lib.PoPSliderMC();
@@ -2846,14 +2842,14 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_45.png?1678203563643", id:"CachedBmp_45"},
-		{src:"images/CachedBmp_39.png?1678203563643", id:"CachedBmp_39"},
-		{src:"images/header.png?1678203563643", id:"header"},
-		{src:"images/poa_interactive_atlas_1.png?1678203563598", id:"poa_interactive_atlas_1"},
-		{src:"images/poa_interactive_atlas_2.png?1678203563598", id:"poa_interactive_atlas_2"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1678203563643", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1678203563643", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1678203563643", id:"an.TextInput"}
+		{src:"images/CachedBmp_45.png?1678286909232", id:"CachedBmp_45"},
+		{src:"images/CachedBmp_39.png?1678286909232", id:"CachedBmp_39"},
+		{src:"images/header.png?1678286909232", id:"header"},
+		{src:"images/poa_interactive_atlas_1.png?1678286909166", id:"poa_interactive_atlas_1"},
+		{src:"images/poa_interactive_atlas_2.png?1678286909167", id:"poa_interactive_atlas_2"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1678286909232", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1678286909232", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1678286909232", id:"an.TextInput"}
 	],
 	preloads: []
 };

@@ -72,8 +72,10 @@ function isFontAvailable(font, obj) {
 <script>
 	var gFontsFamilies = ["Roboto"];
 </script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:500italic&subset=latin">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:700&subset=latin">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:regular&subset=latin">
-<script src="poa-interactive.js?1674656092790"></script>
+<script src="poa-interactive.js?1678286909316"></script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
@@ -133,44 +135,13 @@ function handleComplete(evt,comp) {
 }
 </script>
 <!-- write your code here -->
-<style>
-	#myInput {
-		position: absolute;
-		left: 503px;
-		top: 275px;
-		width: 40px;
-		height: 28.3px;
-		font-size: 25px;
-		text-size-adjust: none;
-		font-weight: bold;
-		font-family: Roboto;
-		text-align: center;
-		border: 2px solid #222B5D;
-		background-color: #f7f7f7;
-	}
-	input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-</style>
 </head>
 <body onload="init();" style="margin:0px;">
-	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:1100px; height:951px">
-		<canvas id="canvas" width="1100" height="951" style="position: absolute; display: none; background-color:rgba(255, 255, 255, 1.00);"></canvas>
-		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:1100px; height:951px; position: absolute; left: 0px; top: 0px; display: none;">
+	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:1100px; height:976px">
+		<canvas id="canvas" width="1100" height="976" style="position: absolute; display: none; background-color:rgba(255, 255, 255, 1.00);"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:1100px; height:976px; position: absolute; left: 0px; top: 0px; display: none;">
 		</div>
-		<input id="myInput" type="tel" maxlength="2">
 	</div>
-    <div id='_preload_div_' style='position:absolute; top:0; left:0; display: inline-block; height:951px; width: 1100px; text-align: center;'>	<span style='display: inline-block; height: 100%; vertical-align: middle;'></span>	<img src=images/_preloader.gif?1674656092791 style='vertical-align: middle; max-height: 100%'/></div>
-	<script>
-		document.getElementById('myInput').onkeydown = function (event) {			
-			if (event.keyCode == 13) {
-				var foo = document.getElementById("myInput").value
-				exportRoot.myFunction(foo);
-			}
-		}
-
-	</script>
+    <div id='_preload_div_' style='position:absolute; top:0; left:0; display: inline-block; height:976px; width: 1100px; text-align: center;'>	<span style='display: inline-block; height: 100%; vertical-align: middle;'></span>	<img src=images/_preloader.gif?1678286909317 style='vertical-align: middle; max-height: 100%'/></div>
 </body>
 </html>
