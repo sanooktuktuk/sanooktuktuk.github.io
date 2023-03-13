@@ -117,8 +117,8 @@ lib.tfontAvailable = function(family, totalTypekitCount) {
 
 
 
-(lib.CachedBmp_45 = function() {
-	this.initialize(img.CachedBmp_45);
+(lib.CachedBmp_51 = function() {
+	this.initialize(img.CachedBmp_51);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2174,314);
 
@@ -2145,82 +2145,93 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.tip1},{t:this.tip2},{t:this.tip3}]}).wait(1));
 
 	// instructions
+	this.text_6 = new cjs.Text("Funding Availability One-Year Appropriation Estimator Tool", "normal 400 30px 'Roboto'", "#FFFFFF");
+	this.text_6.textAlign = "center";
+	this.text_6.lineHeight = 42;
+	this.text_6.lineWidth = 833;
+	this.text_6.parent = this;
+	this.text_6.setTransform(622.3,26.85);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_6);
+	}
+
 	this.instance = new lib.header();
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.instance_1 = new lib.Symbol6("synched",0);
 	this.instance_1.setTransform(369.85,133.7);
 
-	this.text_6 = new cjs.Text("key", "normal 700 16px 'Roboto'");
-	this.text_6.lineHeight = 18;
-	this.text_6.parent = this;
-	this.text_6.setTransform(99.05,217.9);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_6);
-	}
-
-	this.text_7 = new cjs.Text("4. Use the        below to determing the funding's availability.", "normal 400 16px 'Roboto'");
+	this.text_7 = new cjs.Text("key", "normal 700 16px 'Roboto'");
 	this.text_7.lineHeight = 18;
 	this.text_7.parent = this;
-	this.text_7.setTransform(24.1,217.9);
+	this.text_7.setTransform(99.05,217.9);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_7);
 	}
 
-	this.instance_2 = new lib.pinpoint();
-	this.instance_2.setTransform(437,182,0.2036,0.2036);
-
-	this.text_8 = new cjs.Text("3. Slide the obligation pin to the funding's obligation date.", "normal 400 16px 'Roboto'");
+	this.text_8 = new cjs.Text("4. Use the        below to determing the funding's availability.", "normal 400 16px 'Roboto'");
 	this.text_8.lineHeight = 18;
 	this.text_8.parent = this;
-	this.text_8.setTransform(24.1,186.9);
+	this.text_8.setTransform(24.1,217.9);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_8);
 	}
 
-	this.instance_3 = new lib.PoP();
-	this.instance_3.setTransform(374,156,0.2405,0.2405);
+	this.instance_2 = new lib.pinpoint();
+	this.instance_2.setTransform(437,182,0.2036,0.2036);
 
-	this.text_9 = new cjs.Text("2. Slide the PoP tab to the PoP's starting month.", "normal 400 16px 'Roboto'");
+	this.text_9 = new cjs.Text("3. Slide the obligation pin to the funding's obligation date.", "normal 400 16px 'Roboto'");
 	this.text_9.lineHeight = 18;
 	this.text_9.parent = this;
-	this.text_9.setTransform(24.1,157.9);
+	this.text_9.setTransform(24.1,186.9);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_9);
 	}
 
-	this.text_10 = new cjs.Text("below and press ENTER.", "normal 400 16px 'Roboto'");
+	this.instance_3 = new lib.PoP();
+	this.instance_3.setTransform(374,156,0.2405,0.2405);
+
+	this.text_10 = new cjs.Text("2. Slide the PoP tab to the PoP's starting month.", "normal 400 16px 'Roboto'");
 	this.text_10.lineHeight = 18;
 	this.text_10.parent = this;
-	this.text_10.setTransform(385.5,127);
+	this.text_10.setTransform(24.1,157.9);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_10);
 	}
 
-	this.text_11 = new cjs.Text("FY", "normal 400 16px 'Roboto'");
+	this.text_11 = new cjs.Text("below and press ENTER.", "normal 400 16px 'Roboto'");
 	this.text_11.lineHeight = 18;
 	this.text_11.parent = this;
-	this.text_11.setTransform(335,127);
+	this.text_11.setTransform(385.5,127);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_11);
 	}
 
-	this.text_12 = new cjs.Text("1. Enter the funding's fiscal year in the field ", "normal 400 16px 'Roboto'");
+	this.text_12 = new cjs.Text("FY", "normal 400 16px 'Roboto'");
 	this.text_12.lineHeight = 18;
 	this.text_12.parent = this;
-	this.text_12.setTransform(24.1,127);
+	this.text_12.setTransform(335,127);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_12);
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_12},{t:this.text_11},{t:this.text_10},{t:this.text_9},{t:this.instance_3},{t:this.text_8},{t:this.instance_2},{t:this.text_7},{t:this.text_6},{t:this.instance_1},{t:this.instance}]}).wait(1));
+	this.text_13 = new cjs.Text("1. Enter the funding's fiscal year in the field ", "normal 400 16px 'Roboto'");
+	this.text_13.lineHeight = 18;
+	this.text_13.parent = this;
+	this.text_13.setTransform(24.1,127);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_13);
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_13},{t:this.text_12},{t:this.text_11},{t:this.text_10},{t:this.instance_3},{t:this.text_9},{t:this.instance_2},{t:this.text_8},{t:this.text_7},{t:this.instance_1},{t:this.instance},{t:this.text_6}]}).wait(1));
 
 	// txt_fields
 	this.txt14 = new cjs.Text("2020", "normal 700 15px 'Roboto'", "#FF0000");
@@ -2235,26 +2246,26 @@ if (reversed == null) { reversed = false; }
 		lib.webFontTxtInst['Roboto'].push(this.txt14);
 	}
 
-	this.text_13 = new cjs.Text("FY", "bold 25px 'Roboto'");
-	this.text_13.textAlign = "center";
-	this.text_13.lineHeight = 32;
-	this.text_13.lineWidth = 39;
-	this.text_13.parent = this;
-	this.text_13.setTransform(739.3,281.25);
-
 	this.text_14 = new cjs.Text("FY", "bold 25px 'Roboto'");
 	this.text_14.textAlign = "center";
 	this.text_14.lineHeight = 32;
 	this.text_14.lineWidth = 39;
 	this.text_14.parent = this;
-	this.text_14.setTransform(483.9,281.25);
+	this.text_14.setTransform(739.3,281.25);
 
 	this.text_15 = new cjs.Text("FY", "bold 25px 'Roboto'");
 	this.text_15.textAlign = "center";
 	this.text_15.lineHeight = 32;
 	this.text_15.lineWidth = 39;
 	this.text_15.parent = this;
-	this.text_15.setTransform(229.55,281.25);
+	this.text_15.setTransform(483.9,281.25);
+
+	this.text_16 = new cjs.Text("FY", "bold 25px 'Roboto'");
+	this.text_16.textAlign = "center";
+	this.text_16.lineHeight = 32;
+	this.text_16.lineWidth = 39;
+	this.text_16.parent = this;
+	this.text_16.setTransform(229.55,281.25);
 
 	this.txt8 = new cjs.Text("2021", "normal 700 15px 'Roboto'", "#FF0000");
 	this.txt8.name = "txt8";
@@ -2340,34 +2351,24 @@ if (reversed == null) { reversed = false; }
 		lib.webFontTxtInst['Roboto'].push(this.txt1);
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.txt1},{t:this.txt3},{t:this.txt4},{t:this.txt5},{t:this.txt6},{t:this.txt7},{t:this.txt8},{t:this.text_15},{t:this.text_14},{t:this.text_13},{t:this.txt14}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.txt1},{t:this.txt3},{t:this.txt4},{t:this.txt5},{t:this.txt6},{t:this.txt7},{t:this.txt8},{t:this.text_16},{t:this.text_15},{t:this.text_14},{t:this.txt14}]}).wait(1));
 
 	// months_labels
-	this.text_16 = new cjs.Text("September, 30", "normal 700 15px 'Roboto'", "#FF0000");
-	this.text_16.textAlign = "center";
-	this.text_16.lineHeight = 17;
-	this.text_16.parent = this;
-	this.text_16.setTransform(1018.9,388.85);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_16);
-	}
-
 	this.text_17 = new cjs.Text("September, 30", "normal 700 15px 'Roboto'", "#FF0000");
 	this.text_17.textAlign = "center";
 	this.text_17.lineHeight = 17;
 	this.text_17.parent = this;
-	this.text_17.setTransform(1018.9,560.05);
+	this.text_17.setTransform(1018.9,388.85);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_17);
 	}
 
-	this.text_18 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
+	this.text_18 = new cjs.Text("September, 30", "normal 700 15px 'Roboto'", "#FF0000");
 	this.text_18.textAlign = "center";
-	this.text_18.lineHeight = 16;
+	this.text_18.lineHeight = 17;
 	this.text_18.parent = this;
-	this.text_18.setTransform(888.5,276.05);
+	this.text_18.setTransform(1018.9,560.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_18);
@@ -2377,7 +2378,7 @@ if (reversed == null) { reversed = false; }
 	this.text_19.textAlign = "center";
 	this.text_19.lineHeight = 16;
 	this.text_19.parent = this;
-	this.text_19.setTransform(627.2,276.05);
+	this.text_19.setTransform(888.5,276.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_19);
@@ -2387,23 +2388,33 @@ if (reversed == null) { reversed = false; }
 	this.text_20.textAlign = "center";
 	this.text_20.lineHeight = 16;
 	this.text_20.parent = this;
-	this.text_20.setTransform(380.45,276.05);
+	this.text_20.setTransform(627.2,276.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_20);
 	}
 
-	this.text_21 = new cjs.Text("October 1,", "normal 400 14px 'Roboto'");
+	this.text_21 = new cjs.Text("September 30,", "normal 400 14px 'Roboto'");
 	this.text_21.textAlign = "center";
 	this.text_21.lineHeight = 16;
 	this.text_21.parent = this;
-	this.text_21.setTransform(135.35,276.05);
+	this.text_21.setTransform(380.45,276.05);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_21);
 	}
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_21},{t:this.text_20},{t:this.text_19},{t:this.text_18},{t:this.text_17},{t:this.text_16}]}).wait(1));
+	this.text_22 = new cjs.Text("October 1,", "normal 400 14px 'Roboto'");
+	this.text_22.textAlign = "center";
+	this.text_22.lineHeight = 16;
+	this.text_22.parent = this;
+	this.text_22.setTransform(135.35,276.05);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_22);
+	}
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_22},{t:this.text_21},{t:this.text_20},{t:this.text_19},{t:this.text_18},{t:this.text_17}]}).wait(1));
 
 	// months_yearly_across
 	this.instance_4 = new lib.CachedBmp_36();
@@ -2684,13 +2695,13 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42}]}).wait(1));
 
 	// Keys
-	this.text_22 = new cjs.Text("Past fiscal year, unavailable for obligations ", "normal 400 16px 'Roboto'", "#71797E");
-	this.text_22.lineHeight = 18;
-	this.text_22.parent = this;
-	this.text_22.setTransform(105.15,935.45);
+	this.text_23 = new cjs.Text("Past fiscal year, unavailable for obligations ", "normal 400 16px 'Roboto'", "#71797E");
+	this.text_23.lineHeight = 18;
+	this.text_23.parent = this;
+	this.text_23.setTransform(105.15,935.45);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_22);
+		lib.webFontTxtInst['Roboto'].push(this.text_23);
 	}
 
 	this.btn_tip3 = new lib.Symbol7();
@@ -2708,57 +2719,57 @@ if (reversed == null) { reversed = false; }
 	this.btn_tip1.setTransform(321.5,856.1);
 	new cjs.ButtonHelper(this.btn_tip1, 0, 1, 1);
 
-	this.text_23 = new cjs.Text("to", "normal 400 16px 'Roboto'", "#C0741A");
-	this.text_23.lineHeight = 18;
-	this.text_23.lineWidth = 15;
-	this.text_23.parent = this;
-	this.text_23.setTransform(-135.5,877.75);
-	if(!lib.properties.webfonts['Roboto']) {
-		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
-		lib.webFontTxtInst['Roboto'].push(this.text_23);
-	}
-
-	this.instance_47 = new lib.CachedBmp_46();
-	this.instance_47.setTransform(6.05,775.5,0.5,0.5);
-
-	this.instance_48 = new lib.CachedBmp_45();
-	this.instance_48.setTransform(3.45,801,0.5,0.5);
-
-	this.text_24 = new cjs.Text("Unavailable ", "normal 400 16px 'Roboto'", "#CC0000");
+	this.text_24 = new cjs.Text("to", "normal 400 16px 'Roboto'", "#C0741A");
 	this.text_24.lineHeight = 18;
+	this.text_24.lineWidth = 15;
 	this.text_24.parent = this;
-	this.text_24.setTransform(105.15,907.45);
+	this.text_24.setTransform(-135.5,877.75);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_24);
 	}
 
-	this.text_25 = new cjs.Text("Available for 5 years to pay lagging cost/expenses", "normal 400 16px 'Roboto'", "#C0741A");
+	this.instance_47 = new lib.CachedBmp_46();
+	this.instance_47.setTransform(6.05,775.5,0.5,0.5);
+
+	this.instance_48 = new lib.CachedBmp_51();
+	this.instance_48.setTransform(3.45,801,0.5,0.5);
+
+	this.text_25 = new cjs.Text("Unavailable ", "normal 400 16px 'Roboto'", "#CC0000");
 	this.text_25.lineHeight = 18;
 	this.text_25.parent = this;
-	this.text_25.setTransform(105.15,877.75);
+	this.text_25.setTransform(105.15,907.45);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_25);
 	}
 
-	this.text_26 = new cjs.Text("Available only to incur costs", "normal 400 16px 'Roboto'", "#BBB104");
+	this.text_26 = new cjs.Text("Available for 5 years to pay lagging cost/expenses", "normal 400 16px 'Roboto'", "#C0741A");
 	this.text_26.lineHeight = 18;
 	this.text_26.parent = this;
-	this.text_26.setTransform(105.15,848.75);
+	this.text_26.setTransform(105.15,877.75);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_26);
 	}
 
-	this.text_27 = new cjs.Text("Available for obligation to taks order/CLIN", "normal 400 16px 'Roboto'", "#019047");
+	this.text_27 = new cjs.Text("Available only to incur costs", "normal 400 16px 'Roboto'", "#BBB104");
 	this.text_27.lineHeight = 18;
-	this.text_27.lineWidth = 345;
 	this.text_27.parent = this;
-	this.text_27.setTransform(105.15,822.5);
+	this.text_27.setTransform(105.15,848.75);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.text_27);
+	}
+
+	this.text_28 = new cjs.Text("Available for obligation to task order/CLIN", "normal 400 16px 'Roboto'", "#019047");
+	this.text_28.lineHeight = 18;
+	this.text_28.lineWidth = 345;
+	this.text_28.parent = this;
+	this.text_28.setTransform(105.15,822.5);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text_28);
 	}
 
 	this.t12 = new cjs.Text("09/30/2016", "normal 400 16px 'Roboto'", "#BBB104");
@@ -2819,7 +2830,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_49 = new lib.CachedBmp_44();
 	this.instance_49.setTransform(52.8,824.1,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_49},{t:this.txt9},{t:this.txt10},{t:this.txt11},{t:this.txt13},{t:this.t12},{t:this.text_27},{t:this.text_26},{t:this.text_25},{t:this.text_24},{t:this.instance_48},{t:this.instance_47},{t:this.text_23},{t:this.btn_tip1},{t:this.btn_tip2},{t:this.btn_tip3},{t:this.text_22}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_49},{t:this.txt9},{t:this.txt10},{t:this.txt11},{t:this.txt13},{t:this.t12},{t:this.text_28},{t:this.text_27},{t:this.text_26},{t:this.text_25},{t:this.instance_48},{t:this.instance_47},{t:this.text_24},{t:this.btn_tip1},{t:this.btn_tip2},{t:this.btn_tip3},{t:this.text_23}]}).wait(1));
 
 	// Layer_1
 	this.instance_50 = new lib.Symbol3("synched",0);
@@ -2842,14 +2853,14 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_45.png?1678467040875", id:"CachedBmp_45"},
-		{src:"images/CachedBmp_39.png?1678467040875", id:"CachedBmp_39"},
-		{src:"images/header.png?1678467040875", id:"header"},
-		{src:"images/poa_interactive_atlas_1.png?1678467040811", id:"poa_interactive_atlas_1"},
-		{src:"images/poa_interactive_atlas_2.png?1678467040811", id:"poa_interactive_atlas_2"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1678467040876", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1678467040876", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1678467040876", id:"an.TextInput"}
+		{src:"images/CachedBmp_51.png?1678713263461", id:"CachedBmp_51"},
+		{src:"images/CachedBmp_39.png?1678713263461", id:"CachedBmp_39"},
+		{src:"images/header.png?1678713263461", id:"header"},
+		{src:"images/poa_interactive_atlas_1.png?1678713263390", id:"poa_interactive_atlas_1"},
+		{src:"images/poa_interactive_atlas_2.png?1678713263390", id:"poa_interactive_atlas_2"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1678713263461", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1678713263461", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1678713263461", id:"an.TextInput"}
 	],
 	preloads: []
 };
