@@ -8,7 +8,7 @@ var loadedGoogleCount = 0;
 var gFontsUpdateCacheList = [];
 var tFontsUpdateCacheList = [];
 lib.ssMetadata = [
-		{name:"poa_interactive_atlas_1", frames: [[1751,141,44,46],[1976,0,45,45],[1496,0,478,58],[1496,308,83,52],[1496,60,95,246],[1593,141,156,79],[1909,214,135,79],[1593,295,176,45],[1751,214,156,79],[0,0,1494,664],[0,666,1489,22],[1797,141,52,27],[1797,170,52,27],[1976,47,52,27],[1967,76,52,27],[1967,105,52,27],[1967,134,52,27],[1967,163,52,27],[1593,222,52,27],[1593,251,52,27],[1647,222,52,27],[1647,251,52,27],[1771,295,52,27],[1825,295,52,27],[1879,295,52,27],[1933,295,52,27],[1987,295,52,27],[1771,324,52,27],[1581,342,52,27],[1496,362,52,27],[1635,342,52,27],[1689,342,52,27],[1825,324,52,27],[1879,324,52,27],[1933,324,52,27],[1987,324,52,27],[1743,353,52,27],[1550,371,52,27],[1496,391,52,27],[1604,371,52,27],[1658,371,52,27],[1797,353,52,27],[1851,353,52,27],[1905,353,52,27],[1959,353,52,27],[1712,382,52,27],[1550,400,52,27],[1852,60,113,152],[1593,60,257,79],[1967,192,21,20]]},
+		{name:"poa_interactive_atlas_1", frames: [[1771,141,44,46],[1976,0,45,45],[1496,0,478,58],[1593,232,83,52],[1496,60,95,246],[1593,188,156,42],[1909,214,135,42],[1593,141,176,45],[1751,214,156,42],[0,0,1494,664],[0,666,1489,22],[1976,47,52,27],[1678,232,52,27],[1967,76,52,27],[1967,105,52,27],[1967,134,52,27],[1967,163,52,27],[1732,258,52,27],[1678,261,52,27],[1593,286,52,27],[1496,308,52,27],[1786,258,52,27],[1840,258,52,27],[1894,258,52,27],[1948,258,52,27],[1732,287,52,27],[1647,290,52,27],[1550,315,52,27],[1496,337,52,27],[1786,287,52,27],[1840,287,52,27],[1894,287,52,27],[1948,287,52,27],[1701,316,52,27],[1604,319,52,27],[1550,344,52,27],[1496,366,52,27],[1755,316,52,27],[1809,316,52,27],[1863,316,52,27],[1917,316,52,27],[1971,316,52,27],[1658,345,52,27],[1604,348,52,27],[1550,373,52,27],[1496,395,52,27],[1712,345,52,27],[1852,60,113,152],[1593,60,257,79],[1967,192,21,20]]},
 		{name:"poa_interactive_atlas_2", frames: [[0,0,1650,1500]]}
 ];
 
@@ -1848,7 +1848,10 @@ if (reversed == null) { reversed = false; }
 		
 		//function for external input field
 		this.myFunction = function (tmp) {
-			root.txt1.text = "20" + tmp - 2;
+			//root.txt1.text = "20" + tmp - 2;
+			//leaving txt1 but off the stage so can't see it.  too much is dependent on that text field and all the crazy date ranges are correct.
+			//instead of trying to fix it all to make date ranges correct, adding txt1Fix to display -2 of the input date
+			root.txt1Fix.text = "20" + tmp - 2;
 			root.txt3.text = "20" + parseInt(tmp) - 1;
 			root.txt9.text = "10/1/" + "20" + tmp;
 		
@@ -2084,6 +2087,21 @@ if (reversed == null) { reversed = false; }
 
 	// actions tween:
 	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
+
+	// script
+	this.txt1Fix = new cjs.Text("2015", "normal 400 14px 'Roboto'");
+	this.txt1Fix.name = "txt1Fix";
+	this.txt1Fix.textAlign = "center";
+	this.txt1Fix.lineHeight = 21;
+	this.txt1Fix.lineWidth = 82;
+	this.txt1Fix.parent = this;
+	this.txt1Fix.setTransform(135.45,291.9);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.txt1Fix);
+	}
+
+	this.timeline.addTween(cjs.Tween.get(this.txt1Fix).wait(1));
 
 	// dummy
 	this.text = new cjs.Text("txt7", "normal 400 14px 'Roboto'");
@@ -2373,7 +2391,7 @@ if (reversed == null) { reversed = false; }
 	this.txt1.lineHeight = 21;
 	this.txt1.lineWidth = 82;
 	this.txt1.parent = this;
-	this.txt1.setTransform(135.45,291.9);
+	this.txt1.setTransform(-47.55,292);
 	if(!lib.properties.webfonts['Roboto']) {
 		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
 		lib.webFontTxtInst['Roboto'].push(this.txt1);
@@ -2706,10 +2724,10 @@ if (reversed == null) { reversed = false; }
 
 	// grey_back
 	this.instance_42 = new lib.CachedBmp_43();
-	this.instance_42.setTransform(16.5,387.5,0.5,0.5);
+	this.instance_42.setTransform(16.5,384.5,0.5,0.5);
 
 	this.instance_43 = new lib.CachedBmp_42();
-	this.instance_43.setTransform(21.7,609.2,0.5,0.5);
+	this.instance_43.setTransform(21.7,604.2,0.5,0.5);
 
 	this.instance_44 = new lib.CachedBmp_41();
 	this.instance_44.setTransform(11.45,563.6,0.5,0.5);
@@ -2881,14 +2899,14 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_51.png?1679477428274", id:"CachedBmp_51"},
-		{src:"images/CachedBmp_39.png?1679477428274", id:"CachedBmp_39"},
-		{src:"images/header.png?1679477428274", id:"header"},
-		{src:"images/poa_interactive_atlas_1.png?1679477428210", id:"poa_interactive_atlas_1"},
-		{src:"images/poa_interactive_atlas_2.png?1679477428210", id:"poa_interactive_atlas_2"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1679477428274", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1679477428274", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1679477428274", id:"an.TextInput"}
+		{src:"images/CachedBmp_51.png?1679591525877", id:"CachedBmp_51"},
+		{src:"images/CachedBmp_39.png?1679591525877", id:"CachedBmp_39"},
+		{src:"images/header.png?1679591525877", id:"header"},
+		{src:"images/poa_interactive_atlas_1.png?1679591525831", id:"poa_interactive_atlas_1"},
+		{src:"images/poa_interactive_atlas_2.png?1679591525831", id:"poa_interactive_atlas_2"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1679591525877", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1679591525877", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1679591525877", id:"an.TextInput"}
 	],
 	preloads: []
 };
