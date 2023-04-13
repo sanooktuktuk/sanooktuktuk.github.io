@@ -8,7 +8,7 @@ var loadedGoogleCount = 0;
 var gFontsUpdateCacheList = [];
 var tFontsUpdateCacheList = [];
 lib.ssMetadata = [
-		{name:"poa_interactive_atlas_1", frames: [[1771,141,44,46],[1976,0,45,45],[1496,0,478,58],[1593,232,83,52],[1496,60,95,246],[1593,188,156,42],[1909,214,135,42],[1593,141,176,45],[1751,214,156,42],[0,0,1494,664],[0,666,1489,22],[1976,47,52,27],[1678,232,52,27],[1967,76,52,27],[1967,105,52,27],[1967,134,52,27],[1967,163,52,27],[1732,258,52,27],[1678,261,52,27],[1593,286,52,27],[1496,308,52,27],[1786,258,52,27],[1840,258,52,27],[1894,258,52,27],[1948,258,52,27],[1732,287,52,27],[1647,290,52,27],[1550,315,52,27],[1496,337,52,27],[1786,287,52,27],[1840,287,52,27],[1894,287,52,27],[1948,287,52,27],[1701,316,52,27],[1604,319,52,27],[1550,344,52,27],[1496,366,52,27],[1755,316,52,27],[1809,316,52,27],[1863,316,52,27],[1917,316,52,27],[1971,316,52,27],[1658,345,52,27],[1604,348,52,27],[1550,373,52,27],[1496,395,52,27],[1712,345,52,27],[1852,60,113,152],[1593,60,257,79],[1967,192,21,20]]},
+		{name:"poa_interactive_atlas_1", frames: [[1995,151,44,46],[1995,104,45,45],[1496,0,478,58],[1910,104,83,52],[1698,60,95,246],[1496,60,200,117],[1910,60,135,42],[1496,179,176,45],[1496,226,156,42],[0,0,1494,664],[0,666,1489,22],[1496,270,52,27],[1550,270,52,27],[1604,270,52,27],[1976,0,52,27],[1976,29,52,27],[1910,158,52,27],[1910,187,52,27],[1964,199,52,27],[1795,214,52,27],[1849,214,52,27],[1903,216,52,27],[1957,228,52,27],[1795,243,52,27],[1849,243,52,27],[1903,245,52,27],[1957,257,52,27],[1795,272,52,27],[1849,272,52,27],[1903,274,52,27],[1957,286,52,27],[1795,301,52,27],[1849,301,52,27],[1903,303,52,27],[1957,315,52,27],[1755,330,52,27],[1809,330,52,27],[1863,332,52,27],[1755,359,52,27],[1809,359,52,27],[1917,344,52,27],[1863,361,52,27],[1971,344,52,27],[1755,388,52,27],[1809,388,52,27],[1917,373,52,27],[1863,390,52,27],[1795,60,113,152],[1496,308,257,79],[1755,308,21,20]]},
 		{name:"poa_interactive_atlas_2", frames: [[0,0,1650,1500]]}
 ];
 
@@ -904,6 +904,90 @@ if (reversed == null) { reversed = false; }
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(0,-23.1,248.4,43.3);
+
+
+(lib.Symbol10b = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.btn = new lib.Symbol11();
+	this.btn.name = "btn";
+	this.btn.setTransform(370.75,16.65,1,1,0,0,0,13,11.6);
+	new cjs.ButtonHelper(this.btn, 0, 1, 1);
+
+	this.text = new cjs.Text("This line represents the current fiscal year. These obligations are currently in their Period of Availability.", "normal 400 16px 'Roboto'");
+	this.text.lineHeight = 18;
+	this.text.lineWidth = 341;
+	this.text.parent = this;
+	this.text.setTransform(10.1,22.6);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text);
+	}
+
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f().s("#000000").ss(1,1,1).p("A9+m0MA79AAAIAANpMg79AAAg");
+	this.shape.setTransform(191.875,43.65);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FFFFFF").s().p("A9+G0IAAtoMA79AAAIAANog");
+	this.shape_1.setTransform(191.875,43.65);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text},{t:this.btn}]}).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Symbol10b, new cjs.Rectangle(-1,-1,385.8,89.3), null);
+
+
+(lib.Symbol10a = function(mode,startPosition,loop,reversed) {
+if (loop == null) { loop = true; }
+if (reversed == null) { reversed = false; }
+	var props = new Object();
+	props.mode = mode;
+	props.startPosition = startPosition;
+	props.labels = {};
+	props.loop = loop;
+	props.reversed = reversed;
+	cjs.MovieClip.apply(this,[props]);
+
+	// Layer_1
+	this.btn = new lib.Symbol11();
+	this.btn.name = "btn";
+	this.btn.setTransform(370.75,16.65,1,1,0,0,0,13,11.6);
+	new cjs.ButtonHelper(this.btn, 0, 1, 1);
+
+	this.text = new cjs.Text("This line shows an obligation in a previous fiscal year and how long it can incur cost.", "normal 400 16px 'Roboto'");
+	this.text.lineHeight = 18;
+	this.text.lineWidth = 341;
+	this.text.parent = this;
+	this.text.setTransform(10.1,22.6);
+	if(!lib.properties.webfonts['Roboto']) {
+		lib.webFontTxtInst['Roboto'] = lib.webFontTxtInst['Roboto'] || [];
+		lib.webFontTxtInst['Roboto'].push(this.text);
+	}
+
+	this.shape = new cjs.Shape();
+	this.shape.graphics.f().s("#000000").ss(1,1,1).p("A9+l2MA79AAAIAALtMg79AAAg");
+	this.shape.setTransform(191.875,37.5);
+
+	this.shape_1 = new cjs.Shape();
+	this.shape_1.graphics.f("#FFFFFF").s().p("A9+F3IAArtMA79AAAIAALtg");
+	this.shape_1.setTransform(191.875,37.5);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_1},{t:this.shape},{t:this.text},{t:this.btn}]}).wait(1));
+
+	this._renderFirstFrame();
+
+}).prototype = getMCSymbolPrototype(lib.Symbol10a, new cjs.Rectangle(-1,-1,385.8,77), null);
 
 
 (lib.Symbol10 = function(mode,startPosition,loop,reversed) {
@@ -2054,22 +2138,50 @@ if (reversed == null) { reversed = false; }
 		this.btn_tip3.addEventListener("click", openTip3.bind(this));
 		this.tip3.btn.addEventListener("click", closeTip3.bind(this));
 		
+		this.btn_tip4.addEventListener("click", openTip4.bind(this));
+		this.tip4.btn.addEventListener("click", closeTip4.bind(this));
+		
+		this.btn_tip5.addEventListener("click", openTip5.bind(this));
+		this.tip5.btn.addEventListener("click", closeTip5.bind(this));
+		
 		function openTip1() {
 			this.tip1.visible = true;
 			this.tip2.visible = false;
 			this.tip3.visible = false;
+			this.tip4.visible = false;
+			this.tip5.visible = false;
 		}
 		
-		function openTip2() {
+		function openTip2() {	
 			this.tip2.visible = true;
-			this.tip1.visible = false;
+			this.tip1.visible = false;	
 			this.tip3.visible = false;
+			this.tip4.visible = false;
+			this.tip5.visible = false;
 		}
 		
 		function openTip3() {
 			this.tip3.visible = true;
 			this.tip1.visible = false;
 			this.tip2.visible = false;
+			this.tip4.visible = false;
+			this.tip5.visible = false;
+		}
+		
+		function openTip4() {
+			this.tip4.visible = true;
+			this.tip1.visible = false;
+			this.tip2.visible = false;
+			this.tip3.visible = false;
+			this.tip5.visible = false;
+		}
+		
+		function openTip5() {
+			this.tip5.visible = true;
+			this.tip1.visible = false;
+			this.tip2.visible = false;
+			this.tip3.visible = false;
+			this.tip4.visible = false;
 		}
 		
 		function closeTip1() {
@@ -2082,6 +2194,14 @@ if (reversed == null) { reversed = false; }
 		
 		function closeTip3() {
 			this.tip3.visible = false;
+		}
+		
+		function closeTip4() {
+			this.tip4.visible = false;
+		}
+		
+		function closeTip5() {
+			this.tip5.visible = false;
 		}
 	}
 
@@ -2173,22 +2293,32 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_5},{t:this.text_4},{t:this.text_3},{t:this.text_2},{t:this.text_1},{t:this.text}]}).wait(1));
 
 	// tips
+	this.tip5 = new lib.Symbol10b();
+	this.tip5.name = "tip5";
+	this.tip5.setTransform(305.8,507.9,1,1,0,0,0,191.8,43.6);
+	this.tip5.visible = false;
+
+	this.tip4 = new lib.Symbol10a();
+	this.tip4.name = "tip4";
+	this.tip4.setTransform(305.8,413.1,1,1,0,0,0,191.8,43.6);
+	this.tip4.visible = false;
+
 	this.tip3 = new lib.Symbol10();
 	this.tip3.name = "tip3";
-	this.tip3.setTransform(502.55,767.3,1,1,0,0,0,191.8,43.6);
+	this.tip3.setTransform(415.5,881.35,1,1,0,0,0,191.8,43.6);
 	this.tip3.visible = false;
 
 	this.tip2 = new lib.Symbol9();
 	this.tip2.name = "tip2";
-	this.tip2.setTransform(897.5,679.5,1,1,0,0,0,191.8,95.7);
+	this.tip2.setTransform(689.55,804.2,1,1,0,0,0,191.8,95.7);
 	this.tip2.visible = false;
 
 	this.tip1 = new lib.Symbol8();
 	this.tip1.name = "tip1";
-	this.tip1.setTransform(543.4,643.65,1,1,0,0,0,191.8,86.5);
+	this.tip1.setTransform(525.4,774.65,1,1,0,0,0,191.8,86.5);
 	this.tip1.visible = false;
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.tip1},{t:this.tip2},{t:this.tip3}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.tip1},{t:this.tip2},{t:this.tip3},{t:this.tip4},{t:this.tip5}]}).wait(1));
 
 	// instructions
 	this.text_6 = new cjs.Text("Funding Availability One-Year Appropriation Estimator Tool", "normal 400 30px 'Roboto'", "#FFFFFF");
@@ -2716,15 +2846,25 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_5},{t:this.shape_4},{t:this.shape_3}]}).wait(1));
 
 	// white
+	this.btn_tip5 = new lib.Symbol7();
+	this.btn_tip5.name = "btn_tip5";
+	this.btn_tip5.setTransform(100,510.65);
+	new cjs.ButtonHelper(this.btn_tip5, 0, 1, 1);
+
+	this.btn_tip4 = new lib.Symbol7();
+	this.btn_tip4.name = "btn_tip4";
+	this.btn_tip4.setTransform(100,418.65);
+	new cjs.ButtonHelper(this.btn_tip4, 0, 1, 1);
+
 	this.shape_6 = new cjs.Shape();
 	this.shape_6.graphics.f("#FFFFFF").s().p("EhBKAIzIAAiTMB+NAAAIAABRIEIAAIAABCgEhBKgHoIAAhKMCCVAAAIAABKg");
 	this.shape_6.setTransform(548.4,576.6);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape_6).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_6},{t:this.btn_tip4},{t:this.btn_tip5}]}).wait(1));
 
 	// grey_back
 	this.instance_42 = new lib.CachedBmp_43();
-	this.instance_42.setTransform(16.5,384.5,0.5,0.5);
+	this.instance_42.setTransform(4.5,369.5,0.5,0.5);
 
 	this.instance_43 = new lib.CachedBmp_42();
 	this.instance_43.setTransform(21.7,604.2,0.5,0.5);
@@ -2899,14 +3039,14 @@ lib.properties = {
 	opacity: 1.00,
 	webfonts: {},
 	manifest: [
-		{src:"images/CachedBmp_51.png?1679591525877", id:"CachedBmp_51"},
-		{src:"images/CachedBmp_39.png?1679591525877", id:"CachedBmp_39"},
-		{src:"images/header.png?1679591525877", id:"header"},
-		{src:"images/poa_interactive_atlas_1.png?1679591525831", id:"poa_interactive_atlas_1"},
-		{src:"images/poa_interactive_atlas_2.png?1679591525831", id:"poa_interactive_atlas_2"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1679591525877", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1679591525877", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1679591525877", id:"an.TextInput"}
+		{src:"images/CachedBmp_51.png?1681383376943", id:"CachedBmp_51"},
+		{src:"images/CachedBmp_39.png?1681383376943", id:"CachedBmp_39"},
+		{src:"images/header.png?1681383376943", id:"header"},
+		{src:"images/poa_interactive_atlas_1.png?1681383376862", id:"poa_interactive_atlas_1"},
+		{src:"images/poa_interactive_atlas_2.png?1681383376862", id:"poa_interactive_atlas_2"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1681383376943", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1681383376943", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1681383376943", id:"an.TextInput"}
 	],
 	preloads: []
 };
